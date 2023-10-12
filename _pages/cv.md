@@ -5,9 +5,9 @@ permalink: /curriculum_vitae/
 author_profile: true
 ---
 
-Need all in PDF? 
+<!--Need all in PDF? 
 
-<!--Download <a href="../files/AashishGoyal_CV.pdf" target="_blank">AashishGoyal_CV.pdf</a> -->
+Download <a href="../files/AashishGoyal_CV.pdf" target="_blank">AashishGoyal_CV.pdf</a> -->
 
 <!-- <p style="text-align:left; color:Black; font-size:30px; font-weight:bold;"> 
 Skills (intermediate/advance/expert)
