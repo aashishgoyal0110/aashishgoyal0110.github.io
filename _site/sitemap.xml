@@ -25,10 +25,10 @@
 <loc>http://localhost:4000/miscellaneous/</loc>
 </url>
 <url>
-<loc>http://localhost:4000/non-menu-page/</loc>
+<loc>http://localhost:4000/more_projects/</loc>
 </url>
 <url>
-<loc>http://localhost:4000/past_projects/</loc>
+<loc>http://localhost:4000/non-menu-page/</loc>
 </url>
 <url>
 <loc>http://localhost:4000/publications/</loc>

@@ -3,8 +3,8 @@ main:
   - title: "Home"
     url: /home/
   
-  - title: "Past Projects"
-    url: /past_projects/
+  - title: "More Projects"
+    url: /more_projects/
 
   - title: "Publications"
     url: /publications/

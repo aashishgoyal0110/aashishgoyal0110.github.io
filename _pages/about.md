@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 <p style="text-align:justify; font-size=22px;"> 
-I am a Ph.D. candidate in my final year at the University of British Columbia. My research interests involve the mathematical modeling of complex flow problems on High Performance Computing (HPC) platforms. I have developed a fast and scalable code to solve non-linear Partial Differential equations for fluid flows containing non-spherical rigid bodies as part of my doctoral research. I have over 8 years of experience developing high-performance code in C/C++ and FORTRAN, specializing in scientific computing, programming, and transport phenomena with applications in the food, pharmaceutical, and oil-gas industries.
+I am a Ph.D. candidate in my final year working with <a href="https://personal.math.ubc.ca/~wachs/" target="_blank">Dr. Anthony Wachs</a> at the University of British Columbia. My research interests involve the mathematical modeling of complex flow problems on High Performance Computing (HPC) platforms. I have developed a fast and scalable code to solve non-linear Partial Differential equations for fluid flows containing non-spherical rigid bodies as part of my doctoral research. I have over 8 years of experience developing high-performance code in C/C++ and FORTRAN, specializing in scientific computing, programming, and transport phenomena with applications in the food, pharmaceutical, and oil-gas industries.
 </p>
 
 <hr>

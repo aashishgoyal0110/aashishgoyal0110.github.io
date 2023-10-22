@@ -17,14 +17,14 @@ author_profile: true
             {{ name.given }} {{ name.family }},
          {% endfor %}
          <br>
-         <i> {{ pub.journal }} </i>,
+         <i> {{ pub.journal }}, </i>
          {{ pub.year }},
          {% if pub.DOI %}
             DOI: <a target="_blank" href="{{ pub.DOI }}"><span class="tag is-danger">{{ pub.DOI }}</span></a>
          {% endif %}
+<!--         <br>
          <br>
-         <br>
-         {{pub.abstract}}
+         {{pub.abstract}} -->
          <br>
          <br>
       </li>
