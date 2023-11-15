@@ -50,11 +50,11 @@ references:
      given: A.
    - family: Wachs
      given: A.
-  # DOI: https://doi.org/10.3390/fluids8030086
+  DOI: https://doi.org/10.4208/cicp.OA-2023-0176
   year: 2023
   title: "An accurate and scalable direction-splitting solver for flows laden with non-spherical rigid bodies - Part 1: fixed rigid bodies"
   abstract: "Particle-resolved direct numerical flow solvers predominantly use a projection method to decouple the non-linear mass and momentum conservation equations. The computing performance of such solvers often decays beyond O(1000) cores due to the cost of solving at least one large three-dimensional pressure Poisson problem per time step. The parallelization may perform moderately well only or even poorly sometimes despite using an efficient algebraic multigrid preconditioner [1]. We present an accurate and scalable solver using a direction splitting algorithm [2] to transform all three-dimensional Poisson problems (and in particular the pressure Poisson problem) into a sequence of three one-dimensional Poisson sub-problems, thus improving its scalability up to multiple thousands of cores. We employ this algorithm to solve mass and momentum conservation equations in flows laden with fixed non-spherical rigid bodies. We consider the presence of rigid bodies on the (uniform or non-uniform) fixed Cartesian fluid grid by modifying the diffusion and divergence stencils on the impacted grid node near the rigid body boundary. Compared to [2], we use a higher-order interpolation scheme for the velocity field to maintain a second-order stress estimation on the particle boundary, resulting in more accurate dimensionless coefficients such as drag Cd and lift Cl. We also correct the interpolation scheme due to the presence of any nearby particle to maintain an acceptable accuracy, making the solver robust even when particles are densely packed in a sub-region of the computational domain. We present classical validation tests involving a single or multiple (up to O(1000)) rigid bodies and assess the robustness, accuracy and computing speed of the solver. We further show that the Direction Splitting solver is ~ 5 times faster on 5120 cores than our solver [1] based on a classical projection method [3]."
-  journal: "In press in Communications in Computational Physics"
+  journal: "Communications in Computational Physics"
   article: "Journal"
 
 - author:
