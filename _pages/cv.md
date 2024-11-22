@@ -12,7 +12,7 @@ Skills (intermediate/advance/expert)
 </p> -->
 
 ## Education
-- **Doctor of Philosophy** in *Chemical and Biological Engineering*, **2019-present**  
+- **Doctor of Philosophy** in *Chemical and Biological Engineering*, **2019-2023**  
     University of British Columbia, Vancouver, BC, Canada
 - **Master of Technology** in *Chemical Engineering*, **2014-2015**  
     Indian Institute of Technology, Kanpur, India
@@ -48,6 +48,7 @@ g { color: Green }
   - <a href="https://www.autodesk.com/products/inventor/overview" target="_blank">Autodesk Inventor</a> -- <b>advance</b>
   - <a href="https://www.openfoam.com/" target="_blank">OpenFOAM</a> -- <g>expert</g>
   - <a href="https://www.cfdem.com/liggghtsr-open-source-discrete-element-method-particle-simulation-code" target="_blank">LIGGGHTS</a> -- <g>expert</g>
+  - <a href="https://amrex-codes.github.io/amrex/" target="_blank">AMReX</a> -- <g>expert</g>
 
 <hr>
 
