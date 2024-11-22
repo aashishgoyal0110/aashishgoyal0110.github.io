@@ -62,7 +62,7 @@ g { color: Green }
 <hr>
 
 ## Academic Work Experience
-- **Graduate Research Assistant**, Univeristy of British Columbia, Sep'19-present
+- **Graduate Research Assistant**, Univeristy of British Columbia, Sep'19-Dec'23
   - <font size="3"> Developed fast and scalable code in C/C++ to solve complex non-linear Partial Differential Equations </font>
   - <font size="3"> Deployed the code on High-Performance Computing (HPC) platforms and proved its scalability up to 7000 cores </font>
   - <font size="3"> Designed the framework using object-oriented programming for extensive modularity, inheritance, and adaptability </font>
@@ -89,12 +89,12 @@ g { color: Green }
 
 ## Leadership skills
 
-- **Cluster administrator**, COSMOS lab, University of British Columbia, Aug'20-present
+- **Cluster administrator**, COSMOS lab, University of British Columbia, Aug'20-Mar'24
   - <font size="3"> Managing the cluster to process and visualize big simulation data for all users </font>
   - <font size="3"> Defined the standard procedure for data management from the start to the end of a certain project </font>
   - <font size="3"> Documented guidelines on Gitlab wiki to setup and run remote visualization on clusters </font>
 
-- **Maintainer**, Gitlab, COSMOS lab, University of British Columbia, Jan'20-present
+- **Maintainer**, Gitlab, COSMOS lab, University of British Columbia, Jan'20-Mar'24
   - <font size="3"> Responsible for maintaining best practices for writing code and merging it into the master branch </font>
   - <font size="3"> Defined the structure of an object-oriented framework for easy integration of code from multiple developers </font>
   - <font size="3"> Created wiki to collaborate with users to document the installation, test cases, and guidelines to submit jobs on HPC </font>
