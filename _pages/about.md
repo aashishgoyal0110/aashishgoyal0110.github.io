@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 <p style="text-align:justify; font-size=22px;"> 
-I am a Ph.D. candidate in my final year working with <a href="https://personal.math.ubc.ca/~wachs/" target="_blank">Dr. Anthony Wachs</a> at the University of British Columbia. My research interests involve the mathematical modeling of complex flow problems on High Performance Computing (HPC) platforms. I have developed a fast and scalable code to solve non-linear Partial Differential equations for fluid flows containing non-spherical rigid bodies as part of my doctoral research. I have over 8 years of experience developing high-performance code in C/C++ and FORTRAN, specializing in scientific computing, programming, and transport phenomena with applications in the food, pharmaceutical, and oil-gas industries.
+I am a postdoctoral researcher working at National Energy Technology Laboratory (NETL) in Morgantown, United States. I did my Ph.D. working with <a href="https://personal.math.ubc.ca/~wachs/" target="_blank">Dr. Anthony Wachs</a> at the University of British Columbia. My research interests involve the mathematical modeling of complex partial differential equations on High Performance Computing (HPC) platforms. During my Ph.D., I developed a fast and scalable code to solve non-linear Partial Differential equations for fluid flows containing non-spherical rigid bodies as part of my doctoral research. I have over 10 years of experience developing high-performance code in C/C++ and FORTRAN, specializing in scientific computing, programming, and transport phenomena with applications in the food, pharmaceutical, and oil-gas industries.
 </p>
 
 <hr>
@@ -18,7 +18,7 @@ Computational/Colorful Fluid Dynamics (CFD)
 </p>
 
 <p style="text-align:justify; font-size=22px;"> 
-I developed a code to solve the non-linear Navier-Stokes equation in a domain with rigid structures. The rigid bodies can be any shape defined by the user, and the code solves the flow around that rigid structure. The code is written in C++ using an object-oriented framework that enables users to add more functionality conveniently. It will soon be open-sourced for anyone to use. The code has been rigorously tested and written using good coding practices. I used HPC platforms to answer increasingly tough problems in order to demonstrate the code's speed, scalability, and accuracy. Here are a few examples of flow configurations that I solved using my code.
+I developed a code to solve the non-linear Navier-Stokes equation in a domain with rigid structures. The rigid bodies can be of any shape defined by the user, and the code solves the flow around that rigid structure. The code is written in C++ using an object-oriented framework that enables users to add more functionality conveniently. It will soon be a part of open-source software. The code has been rigorously tested and written using good coding practices. I used HPC platforms to answer increasingly tough problems in order to demonstrate the code's speed, scalability, and accuracy. Here are a few examples of flow configurations that I solved using my code.
 </p>
 
 <p style="text-align:justify; font-size=22px;"> 
