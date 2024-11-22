@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Aashish Goyal"
   avatar           : "profile_AG.png"
-  bio              : "Fluid Mechanics | High Performance Computing | Scientific Computing | Particle-laden flows"
-  location         : "Vancouver, BC, Canada"
-  employer         : "University of British Columbia"
+  bio              : "Fluid Mechanics | High Performance Computing | Scientific Computing | Particle-laden flows | Radiation Transport"
+  location         : "Morgantown, WV, United States"
+  employer         : "National Energy Technology Laboratory"
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=zAJZnykAAAAJ&hl=en"
-  email            : "goyal001@student.ubc.ca"
+  email            : "aashish.goyal.0110@gmail.com"
   researchgate     : #"https://www.researchgate.net/profile/Shubham-Jain-23"
   uri              :
   bitbucket        :
