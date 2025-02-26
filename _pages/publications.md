@@ -7,7 +7,7 @@ author_profile: true
 <!-- <p style="text-align:left; color:Blue; font-size:30px; font-weight:bold;"> Journal Articles </p> -->
 <ol>
 
-{% assign pubs = site.data.publications.references | sort: "year" | reverse %}
+{% assign pubs = site.data.publications.references | sort: "date" | reverse %}
 {% for pub in pubs %}
    {% if pub.article == "Journal" %}
       <li>
