@@ -91,11 +91,11 @@ references:
   journal: "Journal of Statistical Physics"
   article: "Journal"
 
-- author:
-   - family: Goyal
-     given: A.
-  DOI: https://dx.doi.org/10.14288/1.0438640
-  year: 2023
-  title: An accurate and scalable direction-splitting solver for flows laden with non-spherical rigid bodies
-  University: "University of British Columbia"
-  article: "Thesis"
+# - author:
+#    - family: Goyal
+#      given: A.
+#   DOI: https://dx.doi.org/10.14288/1.0438640
+#   year: 2023
+#   title: An accurate and scalable direction-splitting solver for flows laden with non-spherical rigid bodies
+#   University: "University of British Columbia"
+#   article: "Thesis"
