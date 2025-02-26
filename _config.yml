@@ -9,7 +9,7 @@
 locale                   : "en-US"
 title                    : "Aashish Goyal"
 title_separator          : "-"
-name                     : &name "Aashish Goyal, Ph.D."
+name                     : &name "Aashish Goyal"
 description              : &description "personal description"
 url                      : https://aashishgoyal0110.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -80,7 +80,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Aashish Goyal"
+  name             : "Aashish Goyal, Ph.D."
   avatar           : "profile_AG.png"
   bio              : "Fluid Mechanics | High Performance Computing | Scientific Computing | Particle-laden flows | Radiation Transport"
   location         : "Morgantown, WV, United States"
